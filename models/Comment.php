@@ -7,7 +7,7 @@
 
 namespace bariew\commentAbstractModule\models;
 
-use bariew\abstractAbstractModule\models\AbstractModel;
+use bariew\abstractModule\models\AbstractModel;
 use bariew\yii2Tools\helpers\ModelHelper;
 use bariew\yii2Tools\validators\ListValidator;
 use Yii;

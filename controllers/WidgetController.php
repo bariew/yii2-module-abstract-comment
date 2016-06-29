@@ -7,7 +7,7 @@
 
 namespace bariew\commentAbstractModule\controllers;
 
-use bariew\abstractAbstractModule\controllers\AbstractModelController;
+use bariew\abstractModule\controllers\AbstractModelController;
 use yii\web\Controller;
 use \bariew\commentAbstractModule\models\Comment;
 use \yii\db\ActiveRecord;
